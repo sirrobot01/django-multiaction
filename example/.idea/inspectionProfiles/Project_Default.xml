@@ -1,0 +1,160 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AppEngineDeprecatedRuntimeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="11" name="Style Sheets" />
+        <language minSize="133" name="JavaScript" />
+        <language minSize="132" name="TypeScript" />
+        <language minSize="993" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="ES6ConvertLetToConst" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="row" />
+            <item index="1" class="java.lang.String" itemvalue="column" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="mj-button" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ourVersions">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.4" />
+            <item index="2" class="java.lang.String" itemvalue="3.5" />
+            <item index="3" class="java.lang.String" itemvalue="3.6" />
+            <item index="4" class="java.lang.String" itemvalue="3.9" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="sendgrid" />
+            <item index="2" class="java.lang.String" itemvalue="pycurl" />
+            <item index="3" class="java.lang.String" itemvalue="Pillow" />
+            <item index="4" class="java.lang.String" itemvalue="rest_framework" />
+            <item index="5" class="java.lang.String" itemvalue="environ" />
+            <item index="6" class="java.lang.String" itemvalue="ratelimit" />
+            <item index="7" class="java.lang.String" itemvalue="django-ratelimit" />
+            <item index="8" class="java.lang.String" itemvalue="cairocffi" />
+            <item index="9" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="10" class="java.lang.String" itemvalue="Django" />
+            <item index="11" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="12" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="13" class="java.lang.String" itemvalue="click-repl" />
+            <item index="14" class="java.lang.String" itemvalue="click-plugins" />
+            <item index="15" class="java.lang.String" itemvalue="toml" />
+            <item index="16" class="java.lang.String" itemvalue="click" />
+            <item index="17" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="18" class="java.lang.String" itemvalue="dj-places" />
+            <item index="19" class="java.lang.String" itemvalue="asgiref" />
+            <item index="20" class="java.lang.String" itemvalue="pytz" />
+            <item index="21" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="22" class="java.lang.String" itemvalue="unittest-xml-reporting" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="E501" />
+          <option value="E302" />
+          <option value="W293" />
+          <option value="E305" />
+          <option value="E128" />
+          <option value="E731" />
+          <option value="W605" />
+          <option value="E101" />
+          <option value="E122" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="engine.models.SocialContentMixin.scheduled_contents" />
+          <option value="curate.lists.PostList.scheduled_contents" />
+          <option value="curate.models.SiteCurate.*" />
+          <option value="curate.lists.PostList.*" />
+          <option value="django.db.models.fields.related.ForeignKey.provider" />
+          <option value="engine.models.blog.allauth" />
+          <option value="engine.mixins.SocialContentMediaMixin.custom_versions" />
+          <option value="engine.models.mixins.SocialContentMediaMixin.content_type" />
+          <option value="engine.models.mixins.SocialContentMediaMixin.custom_versions" />
+          <option value="api.SampleModel.objects" />
+          <option value="list.index" />
+          <option value="bytes.*" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.referral_url_shortened" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.save" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.user" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.get_subscription" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.add_stripe_coupon" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.referral_reward_balance" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.referring_user" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.send_referred_activated_email" />
+          <option value="missinglettr.allauth.socialaccount.providers.wistia.provider.allauth" />
+          <option value="manage.lists.BlogList.user" />
+          <option value="engine.utils.google_business.*" />
+          <option value="missinglettr_profile.mixins.ReferralMixin.get_or_create_customer" />
+          <option value="requests.models.Response.*" />
+          <option value="leads.lists.CampaignList.*" />
+          <option value="dict.create_campaign" />
+          <option value="leads.lists.LeadList.generate_campaign" />
+          <option value="dict.*" />
+          <option value="manage.lists.ScheduledContentList.get_mention_social_network_versions" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="UnterminatedStatementJS" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="ignoreSemicolonAtEndOfBlock" value="false" />
+    </inspection_tool>
+  </profile>
+</component>
